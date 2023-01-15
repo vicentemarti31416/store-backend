@@ -11,6 +11,6 @@ public interface CustomerRepository extends JpaRepository<Customer, Long> {
 
     Customer findByName(String name);
 
-    List<Customer> findByPhone(@Param("phone") String phone, Pageable pageable);
+    List<Customer> findByPhone(@Param("phone") Integer phone, Pageable pageable);
 
 }

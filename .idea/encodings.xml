@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/microservicio-customer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicio-invoice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicio-invoice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicio-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicio-product/src/main/resources" charset="UTF-8" />
   </component>
 </project>
